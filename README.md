@@ -24,7 +24,6 @@ Prequisties:
 1. Go to google account : https://myaccount.google.com
 
 2. After enabling 2-Step Verification:
-
 i. Go to Security\
 ii. Scroll down\
 iii. Click App passwords
@@ -49,7 +48,7 @@ Use this Password instead of your real orignal Google Account Password
 Clone the project
 
 ```bash
-  git clone "repo-url"
+  git clone <repo-url>
 ```
 
 Go to the project directory
