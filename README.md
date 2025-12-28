@@ -23,7 +23,7 @@ Prequisties:
 ### Steps to generate the app Password
 1. Go to google account : https://myaccount.google.com
 
-2. After enabling 2-Step Verification:
+2. After enabling 2-Step Verification:\
 i. Go to Security\
 ii. Scroll down\
 iii. Click App passwords
