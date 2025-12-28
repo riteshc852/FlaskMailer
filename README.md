@@ -28,7 +28,7 @@ i. Go to Security\
 ii. Scroll down\
 iii. Click App passwords
 
-3. Generate the App Password
+3. Generate the App Password\
 i. Select app → Mail\
 ii. Select device → Other\
 iii. Enter a name like : Flask Mail app
