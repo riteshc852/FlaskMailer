@@ -11,7 +11,7 @@ To run this project, you will need to add the following environment variables to
 `MAIL_PASSWORD`
 
 For MAIL_USERNAME → use your gmail id\
-For MAIL_PASSWORD → generate a new app password in your gmail account settings\
+For MAIL_PASSWORD → generate a new app password in your gmail account settings or you can use your real password (not recommended)\
 \
 Follow the  instruction below for generating the app password : 
 
